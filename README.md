@@ -36,7 +36,7 @@ Le projet a été développé rapidement pour un entretien technique, en utilisa
 ### Gestion des passagers
 ![GIF ajout passager](https://raw.githubusercontent.com/DraKkarW2/PlanBooking/refs/heads/main/passengers.gif)
 
-### Gestion des réservation
+### Gestion des réservations
 ![GIF ajout booking](https://raw.githubusercontent.com/DraKkarW2/PlanBooking/refs/heads/main/booking.gif)
 
 ---
