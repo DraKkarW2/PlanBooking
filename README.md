@@ -27,16 +27,16 @@ Le projet a été développé rapidement pour un entretien technique, en utilisa
 ### Menu principal
 ![GIF menu principal](https://raw.githubusercontent.com/DraKkarW2/PlanBooking/refs/heads/main/mainMenu.gif)
 
-### gestion des avion
+### Gestion des avion
 ![GIF ajout avion](https://raw.githubusercontent.com/DraKkarW2/PlanBooking/refs/heads/main/plan.gif)
 
-### gestion des  vols
+### Gestion des  vols
 ![GIF ajout vol](https://raw.githubusercontent.com/DraKkarW2/PlanBooking/refs/heads/main/flight.gif)
-3
-### Création d'un passager
+
+### Gestion des passagers
 ![GIF ajout passager](https://raw.githubusercontent.com/DraKkarW2/PlanBooking/refs/heads/main/passengers.gif)
 
-### Création d'une réservation
+### Gestion des réservation
 ![GIF ajout booking](https://raw.githubusercontent.com/DraKkarW2/PlanBooking/refs/heads/main/booking.gif)
 
 ---
