@@ -25,19 +25,19 @@ Le projet a été développé rapidement pour un entretien technique, en utilisa
 ## 💻 Capture d'écran / GIF
 
 ### Menu principal
-![GIF menu principal](C:\Users\steve\Documents\GitHub\PlanBooking\plan.gif)
+![GIF menu principal](https://raw.githubusercontent.com/DraKkarW2/PlanBooking/refs/heads/main/mainMenu.gif)
 
 ### gestion des avion
-![GIF ajout avion](C:\Users\steve\Documents\GitHub\PlanBooking\plan.gif)
+![GIF ajout avion](https://raw.githubusercontent.com/DraKkarW2/PlanBooking/refs/heads/main/plan.gif)
 
 ### gestion des  vols
-![GIF ajout vol](C:\Users\steve\Documents\GitHub\PlanBooking\flight.gif)
+![GIF ajout vol](https://raw.githubusercontent.com/DraKkarW2/PlanBooking/refs/heads/main/flight.gif)
 3
 ### Création d'un passager
-![GIF ajout passager](C:\Users\steve\Documents\GitHub\PlanBooking\passengers.gif)
+![GIF ajout passager](https://raw.githubusercontent.com/DraKkarW2/PlanBooking/refs/heads/main/passengers.gif)
 
 ### Création d'une réservation
-![GIF ajout booking](C:\Users\steve\Documents\GitHub\PlanBooking\booking.gif)
+![GIF ajout booking](https://raw.githubusercontent.com/DraKkarW2/PlanBooking/refs/heads/main/booking.gif)
 
 ---
 
